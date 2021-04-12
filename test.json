@@ -1,0 +1,26 @@
+{
+    "tasks": [
+        {
+            "key": "189eedd4-1ac9-459b-859f-86d09d0cf0af",
+            "title": "Hello",
+            "description": "Test task",
+            "room": "Test",
+            "recurring": "false",
+            "tags": [
+                "tag1",
+                "tag2",
+                "tag3"
+            ]
+        },
+        {
+            "key": "15554498-f059-42b4-9d2e-07aae3a4a1de",
+            "title": "Goodbye",
+            "description": "Test task",
+            "room": "Test",
+            "recurring": "false",
+            "blocking": [
+                "189eedd4-1ac9-459b-859f-86d09d0cf0af"
+            ]
+        }
+    ]
+}
